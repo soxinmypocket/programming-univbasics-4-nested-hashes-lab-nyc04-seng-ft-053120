@@ -105,10 +105,9 @@ def changing_alan
         :known_for => "Unix",
         :languages => ["C"]
       }
-    }
-alan_new = "GUI"
+}
 programmer_hash[:alan_kay][:known_for] = alan_new
-
+alan_new = "GUI"
 end
 
 def adding_to_dennis
